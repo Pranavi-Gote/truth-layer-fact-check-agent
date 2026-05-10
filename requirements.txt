@@ -1,0 +1,9 @@
+streamlit
+google-genai
+pymupdf
+pdfplumber
+requests
+beautifulsoup4
+pandas
+python-dotenv
+python-multipart
